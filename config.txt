@@ -1,1 +1,2 @@
 added some config
+added feature3 config
